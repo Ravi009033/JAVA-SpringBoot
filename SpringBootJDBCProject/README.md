@@ -10,7 +10,7 @@ This is a simple **CRUD application** developed using **Spring Boot** and **JDBC
 - Delete a record
 - Uses `JdbcTemplate` for database operations
 - MySQL database integration
-- RESTful API endpoints
+
 
 ## Technologies Used
 
@@ -19,7 +19,7 @@ This is a simple **CRUD application** developed using **Spring Boot** and **JDBC
 - Spring JDBC (JdbcTemplate)
 - MySQL
 - Maven
-- Postman (for testing API)
+
 
 ## Prerequisites
 
