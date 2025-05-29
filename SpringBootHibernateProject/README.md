@@ -1,5 +1,5 @@
 # Spring Boot + Hibernate CRUD Project
-his is a simple CRUD (Create, Read, Update, Delete) web application built using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**.
+This is a simple CRUD (Create, Read, Update, Delete) web application built using **Spring Boot**, **Hibernate (JPA)**, and **MySQL**.
 It demonstrates how to manage persistent data using a clean RESTful API architecture.
 
 ## Features
