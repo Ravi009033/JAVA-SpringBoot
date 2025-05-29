@@ -28,6 +28,8 @@ This is a simple **CRUD application** developed using **Spring Boot** and **JDBC
 - MySQL Server
 - IDE like IntelliJ IDEA or Eclipse
 
-
+## Notes
+- This project uses JdbcTemplate for direct SQL execution.
+- SQL statements (queries and updates) are written manually in the Repository layer.
 
 
