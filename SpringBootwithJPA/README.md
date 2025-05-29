@@ -35,7 +35,7 @@ It demonstrates how to use **JPA** to perform Create, Read, Update, and Delete o
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/springboot-jpa-crud.git
+git clone https://github.com/Ravi009033/springboot-jpa-crud.git
 cd springboot-jpa-crud
 ```
 ### 2.Set Up MySQL Database
