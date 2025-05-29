@@ -8,7 +8,6 @@ It demonstrates how to manage persistent data using a clean RESTful API architec
 - Retrieve all entities or by ID
 - Update an existing entity
 - Delete an entity
-- RESTful API using Spring Web
 - Persistence using Hibernate and JPA
 - MySQL as the backend database
 - Exception handling and validation
