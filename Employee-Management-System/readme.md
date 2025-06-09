@@ -30,7 +30,7 @@ and role-based access control.
    ```bash
    git clone https://github.com/Ravi009033/JAVA-SpringBoot/tree/main/Employee-Management-System.git
    cd Employee-Management-System
-```
+   ```
 - Create a new database:
   ```CREATE DATABASE ems_db```
 
@@ -49,12 +49,12 @@ and role-based access control.
   ``` http://localhost:8080/api/...```
 
 ## 🔐 API Endpoints
--**Auth**
+- **Auth**
   - POST /api/register — Register new user
 
   - POST /api/login — Login and receive JWT token
 
--**Employees**
+- **Employees**
   - GET /api/employees — Get all employees (Admin only)
 
   - GET /api/employee/{id} — Get employee by ID
