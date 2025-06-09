@@ -26,10 +26,10 @@ and role-based access control.
 ---
 
 ## ⚙️ Configuration
--**Clone the repository**
+- **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
-   cd employee-management-system
+   git clone https://github.com/Ravi009033/JAVA-SpringBoot/tree/main/Employee-Management-System.git
+   cd Employee-Management-System
 ```
 - Create a new database:
   ```CREATE DATABASE ems_db```
