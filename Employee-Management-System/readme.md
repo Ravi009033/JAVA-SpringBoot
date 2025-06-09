@@ -36,7 +36,7 @@ and role-based access control.
 
 - Update the application.properties file in src/main/resources:
  ```
-    spring.datasource.url=jdbc:mysql://localhost:3306/jpa_crud_db
+    spring.datasource.url=jdbc:mysql://localhost:3306/ems_db
     spring.datasource.username=root
     spring.datasource.password=your_password
     spring.jpa.hibernate.ddl-auto=update
@@ -50,20 +50,20 @@ and role-based access control.
 
 ## 🔐 API Endpoints
 - **Auth**
-  - POST /api/register — Register new user
+  - POST ```/api/register``` — Register new user
 
-  - POST /api/login — Login and receive JWT token
+  - POST ```/api/login``` — Login and receive JWT token
 
 - **Employees**
-  - GET /api/employees — Get all employees (Admin only)
+  - GET ```/api/employees``` — Get all employees (Admin only)
 
-  - GET /api/employee/{id} — Get employee by ID
+  - GET ```/api/employee/{id}``` — Get employee by ID
 
-  - POST /api/employee — Add employee (Admin only)
+  - POST ```/api/employee``` — Add employee (Admin only)
 
-  - PUT /api/employee/{id} — Update employee
+  - PUT ```/api/employee/{id}``` — Update employee
 
-  - DELETE /api/employee/{id} — Delete employee (Admin only)
+  - DELETE ```/api/employee/{id}``` — Delete employee (Admin only)
 
 ## Notes:
 - JWT token must be added to the Authorization header as:
