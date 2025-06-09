@@ -15,13 +15,12 @@ and role-based access control.
 
 ## ✨ Features
 
-- Employee Registration and Login
+- Admin or User Registration and Login
 - JWT Token-Based Authentication
 - Role-Based Access Control (Admin/User)
 - CRUD Operations on Employees
 - Secure Endpoints using Spring Security
 - MySQL Database Integration
-- Token stored on client side (localStorage/cookie)
 
 ---
 
